@@ -1,1 +1,2 @@
+npm install --save-dev html-validate
 npx html-validate "**/*.html"
